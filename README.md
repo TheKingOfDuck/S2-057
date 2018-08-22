@@ -12,9 +12,11 @@ cd S2-057
 python Main.pyc</code></pre>
 
 ## 影响版本
+<pre>
+Struts 2.3 - Struts 2.3.34
 
-Struts 2.3 - Struts 2.3.34，Struts 2.5 - Struts 2.5.16
-
+Struts 2.5 - Struts 2.5.16
+</pre>
 ## 修复建议
 
 1.升级到Struts 2.3.35或Struts 2.5.17
