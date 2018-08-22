@@ -1,8 +1,8 @@
 # S2-057
-S2-057 EXP
+S2-057 EXP 请在Python2.7下运行
 
 
-## USE:
+## 食用说明:
 
 <pre><code>
 pip install matplotlib
