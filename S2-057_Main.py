@@ -7,12 +7,12 @@ import os
 
 
 def Attack(Target):
-    lena = mpimg.imread("EXP.png")
+    lena = mpimg.imread("S2-057_EXP.png")
     lena.shape
     plt.imshow(lena)
     plt.axis('off')
     plt.show()
-    os.rename("EXP.png","EXP")
+    os.rename("EXP.png","S2-057_EXP")
 if __name__ == '__main__':
     try:
         Target = input("Please Input A Target Host:")
