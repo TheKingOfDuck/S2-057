@@ -2,7 +2,7 @@
 S2-057 EXP 请在Python2.7下运行
 
 
-## 食用说明:
+## 食用说明
 
 <pre><code>
 pip install matplotlib
