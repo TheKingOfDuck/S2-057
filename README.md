@@ -5,6 +5,8 @@ S2-057 EXP 请在Python2.7下运行
 # 寻求GithubID为Anonymous-ghost这个弱智的联系方式
 <pre><code>
 求认识这个傻逼的大佬私发一个他的联系方式给我 Issues里面看撕逼。哈哈哈😂
+Issues楼层被1337老哥删掉了 我没法回复 Anonymous-ghost这个傻逼 我QQ是27958875  不服气欢迎来撕逼 去你妈妈的我联系方式在使用必读里面 base64解码一下就有了 傻逼
+
 </code></pre>
 ## 食用说明
 
