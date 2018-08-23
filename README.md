@@ -2,6 +2,10 @@
 S2-057 EXP 请在Python2.7下运行
 
 
+# 寻求GithubID为Anonymous-ghost这个弱智的联系方式
+<pre><code>
+求认识这个傻逼的大佬私发一个他的联系方式给我 Issues里面看撕逼。哈哈哈😂
+</code></pre>
 ## 食用说明
 
 <pre><code>
